@@ -1,6 +1,6 @@
 # Garbage_Classifier_Flask_App
 
-This project is a garbage classifier web app. I used a convolutional neueral network model with tensorflow and keras. I made the web app using flask and deployed the CNN model in it. When the flask app is working, you will be able to upload an image of garbage and get back a clasification of the image, and the level of confidence in the accuracy of the output.
+This project is a garbage classifier web app. I used a Convolutional Neueral Network(CNN) model with tensorflow and keras. I made the web app using flask and deployed the CNN model in it. When the flask app is working, you will be able to upload an image of garbage and get back a clasification of the image, and the level of confidence in the accuracy of the output.
 
 The 12 categories of garbage are: 
 - paper
