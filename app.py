@@ -11,7 +11,7 @@ import base64
 import os
 import numpy as np
 import tensorflow.keras.applications.xception as xception
-
+ 
 
 
 IMAGE_WIDTH = 320    
